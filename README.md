@@ -1,2 +1,2 @@
-# nft-pi.golem.network
-PwD by Unique Kamboj
+# cpu.chainpartners.net
+PwD by Sahil
